@@ -10,9 +10,11 @@ Currently, two official plugins are available:
 ## List of Projects:
 
 1. Palindrom Checker
-   Todo:
-   [x] Create form
-   [x] Handle form inputs
-   [x] Write function finding palindrom
-   [x] Show the answer
-   [] Add style
+
+##### Todo:
+
+- [x] Create form
+- [x] Handle form inputs
+- [x] Write function finding palindrom
+- [x] Show the answer
+- [] Add style
